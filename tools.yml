@@ -1,0 +1,6 @@
+global:
+  default_inherits: default
+tools:
+  toolshed.g2.bx.psu.edu/repos/goeckslab/tabular_learner/tabular_learner/.*:
+    cores: 8
+    mem: 32
